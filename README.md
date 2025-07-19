@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ahmed Emad Hassan</h1>
 <h3 align="center">Computer Engineering Fresh Graduate</h3>
 
-- 🔭 I’m currently working on **Driving License Management Desktop Application**
+- 🔭 I’m currently working on **MyFirstMVCAPP**
 
-- 🌱 I’m currently learning **C# .Net Core**
+- 🌱 I’m currently learning **Web Full Stack Development**
 
 - 📫 How to reach me **ahmed.emad.engineer@gmail.com**
 
 - 📄 Know about my experiences [My CV](https://drive.google.com/drive/folders/1gxxCKIStoWnz9SSTSoUiqXcbI_IbIuJQ?usp=drive_link)
+- 🌐 See My [Website](https://ahmedemadh.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
