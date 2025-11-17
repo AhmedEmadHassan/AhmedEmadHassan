@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Emad Hassan</h1>
 <h3 align="center">Computer Engineering Fresh Graduate</h3>
 
-- 🔭 I’m currently working on **E-commerce-Website**
+- 🔭 I’m currently working on **Driving-License-Management-Backend**
 
-- 🌱 I’m currently learning **Web Full Stack Development (MCV Pattern)**
+- 🌱 I’m currently learning **Clean Architecture, Javascript, Typescript and Angular**
 
 - 📫 How to reach me **ahmed.emad.engineer@gmail.com**
 
