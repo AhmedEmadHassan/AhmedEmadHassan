@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Emad Hassan</h1>
 <h3 align="center">Computer Engineering Fresh Graduate</h3>
 
-- 🔭 I’m currently working on **Driving-License-Management-Backend**
+- 🔭 I’m currently working on **Driving-License-Management-Backend and School-Project**
 
 - 🌱 I’m currently learning **Clean Architecture, Javascript, Typescript and Angular**
 
